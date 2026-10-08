@@ -1,0 +1,6 @@
+{
+  "name": "InstaHarvest - Reels & Media Downloader",
+  "description": "Download Instagram Reels, videos, carousel photos, and IGTV directly by username or post URL with batch downloads and high-res media extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
